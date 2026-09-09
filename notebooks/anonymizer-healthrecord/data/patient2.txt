@@ -1,0 +1,92 @@
+# MEDICAL REPORT - CONFIDENTIAL
+
+Patient ID: MR-2025-413982
+Date: January 22, 2025
+Hospital: Riverside Regional Medical Center
+Department: Family Medicine
+
+## PATIENT INFORMATION
+
+Name: Emily Carter 
+DOB: 05/18/1986 (Age: 38)
+Gender: Female
+Address: 782 Maple Ridge Drive, Fairview, OH 44123
+Phone: (216) 555-0147
+Insurance: Horizon Health - Policy #: HH472819564
+
+## ATTENDING PHYSICIAN
+
+Dr. Rebecca Lawson, MD
+Family Medicine
+License #: OH-MD-782194
+
+## CHIEF COMPLAINT
+
+Patient reports intermittent headaches, elevated home blood pressure readings, and increasing fatigue over the past month.
+
+## MEDICAL HISTORY
+
+- Essential hypertension (diagnosed 2022)
+- Hyperlipidemia (diagnosed 2023)
+- Seasonal allergic rhinitis
+
+## CURRENT MEDICATIONS
+
+- Amlodipine 5 mg - once daily
+- Atorvastatin 20 mg - once daily
+- Cetirizine 10 mg - once daily as needed
+- Multivitamin - daily
+
+## EXAMINATION FINDINGS
+
+- Blood Pressure: 150/92 mmHg
+- Heart Rate: 74 bpm
+- Temperature: 98.4°F
+- Respiratory Rate: 16/min
+- Weight: 178 lbs
+- Mild bilateral ankle edema
+- Cardiovascular and respiratory examinations otherwise unremarkable
+
+## LABORATORY RESULTS
+
+- Total Cholesterol: 228 mg/dL
+- LDL Cholesterol: 148 mg/dL
+- HDL Cholesterol: 49 mg/dL
+- Triglycerides: 182 mg/dL
+- Creatinine: 0.9 mg/dL
+- Sodium: 139 mmol/L
+- Potassium: 4.2 mmol/L
+
+## DIAGNOSIS
+
+- Stage 2 hypertension
+- Hyperlipidemia
+- Tension-type headaches, likely related to elevated blood pressure
+
+
+## TREATMENT PLAN
+
+- Increase Amlodipine to 10 mg daily
+- Continue Atorvastatin 20 mg daily
+- Encourage DASH diet and sodium restriction
+- Home blood pressure monitoring twice daily
+- Follow-up lipid panel in 3 months
+
+## REPORTED SIDE EFFECTS
+
+- Mild ankle swelling with Amlodipine
+- Occasional muscle soreness, not clearly medication-related
+
+## FOLLOW-UP
+
+- Return in 4 weeks for blood pressure reassessment
+- Repeat comprehensive metabolic panel before next visit
+
+## PHYSICIAN NOTES
+
+Patient demonstrates good medication adherence but reports inconsistent dietary habits. Discussed exercise goals of at least 150 minutes of moderate activity per week. Advised to seek medical attention for severe headache, chest pain, or neurological symptoms.
+
+Dr. Rebecca Lawson, MD
+Date: January 22, 2025
+Signature: [Electronic Signature on File]
+

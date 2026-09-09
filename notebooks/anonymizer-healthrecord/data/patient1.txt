@@ -1,0 +1,79 @@
+# MEDICAL REPORT - CONFIDENTIAL
+
+Patient ID: MR-2024-789456
+Date: March 15, 2024
+Hospital: St. Mary's General Hospital
+Department: Internal Medicine
+
+## PATIENT INFORMATION:
+Name: Sarah Johnson
+DOB: 08/12/1978 (Age: 45)
+Gender: Female
+Address: 1247 Oak Street, Springfield, IL 62701
+Phone: (217) 555-0198
+Insurance: Blue Cross Blue Shield - Policy #: BC887456123
+
+## ATTENDING PHYSICIAN:
+Dr. Michael Chen, MD
+Internal Medicine
+License #: IL-MD-456789
+
+## CHIEF COMPLAINT:
+Patient presents with persistent fatigue, joint pain, and difficulty sleeping over the past 6 weeks.
+
+## MEDICAL HISTORY:
+- Hypertension (diagnosed 2019)
+- Type 2 Diabetes Mellitus (diagnosed 2021)
+- Osteoarthritis (diagnosed 2023)
+
+## CURRENT MEDICATIONS:
+1. Metformin 1000mg - twice daily (diabetes management)
+2. Lisinopril 10mg - once daily (blood pressure control)
+3. Ibuprofen 400mg - as needed for joint pain
+4. Vitamin D3 2000 IU - daily
+
+## EXAMINATION FINDINGS:
+- Blood Pressure: 142/88 mmHg (elevated)
+- Heart Rate: 78 bpm
+- Temperature: 98.6°F
+- Weight: 165 lbs
+- Notable joint tenderness in knees and wrists
+- Mild swelling observed in finger joints
+
+## LABORATORY RESULTS:
+- HbA1c: 7.8% (target <7.0%)
+- Fasting glucose: 158 mg/dL
+- Creatinine: 1.2 mg/dL
+- ESR: 45 mm/hr (elevated)
+- CRP: 8.2 mg/L (elevated)
+
+## DIAGNOSIS:
+1. Uncontrolled Type 2 Diabetes Mellitus
+2. Hypertension, poorly controlled
+3. Possible inflammatory arthritis - rheumatoid arthritis suspected
+
+## TREATMENT PLAN:
+1. Increase Metformin to 1000mg three times daily
+2. Add Glipizide 5mg twice daily for diabetes control
+3. Increase Lisinopril to 15mg daily
+4. Discontinue Ibuprofen due to kidney function concerns
+5. Start Prednisone 10mg daily for 2 weeks (anti-inflammatory)
+6. Prescribe Omeprazole 20mg daily (stomach protection with Prednisone)
+
+## REPORTED SIDE EFFECTS:
+- Patient reports nausea with current Metformin dose
+- Occasional dizziness, possibly related to blood pressure medication
+- Mild stomach upset with Ibuprofen use
+
+## FOLLOW-UP:
+- Return in 4 weeks for medication review
+- Laboratory work in 6 weeks (HbA1c, kidney function)
+- Rheumatology consultation scheduled for April 2, 2024
+- Patient education provided on diabetes management and joint care
+
+## PHYSICIAN NOTES:
+Patient is motivated to improve health outcomes. Discussed lifestyle modifications including dietary changes and low-impact exercise. Will monitor closely for medication tolerance and effectiveness.
+
+Dr. Michael Chen, MD
+Date: March 15, 2024
+Signature: [Electronic Signature on File]

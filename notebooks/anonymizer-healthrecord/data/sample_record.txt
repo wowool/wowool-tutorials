@@ -1,0 +1,24 @@
+# MEDICAL REPORT - CONFIDENTIAL
+
+Patient ID: MR-2024-789456
+Date: March 15, 2024
+Hospital: St. Mary's General Hospital
+Department: Internal Medicine
+
+## PATIENT INFORMATION:
+Name: Sarah Johnson
+DOB: 08/12/1978 (Age: 45)
+Gender: Female
+Address: 1247 Oak Street, Springfield, IL 62701
+Phone: (217) 555-0198
+Insurance: Blue Cross Blue Shield - Policy #: BC887456123
+
+## ATTENDING PHYSICIAN:
+Dr. Michael Chen, MD
+Internal Medicine
+License #: IL-MD-456789
+
+## CLINICAL FINDINGS:
+- Potassium: 4.2 mmol/L
+- BP: 120/80 mmHg
+- Assessment: Mild hypercholesterolemia, chronic obstructive pulmonary disease.

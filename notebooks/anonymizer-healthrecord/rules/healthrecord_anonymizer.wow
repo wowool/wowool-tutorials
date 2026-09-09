@@ -1,0 +1,81 @@
+//---------------------------------------
+// PatientID
+// Patient IDs start with MR-
+//---------------------------------------
+rule: { "Patient ID" ":" {"MR-(.)*"}=PatientID };
+
+//---------------------------------------
+// Patient
+// Create a new annotation just for patients
+// Context: Name: John Doe
+//---------------------------------------
+rule: {"Name" ":" {Person}=Patient };
+
+//---------------------------------------
+// PolicyNumber
+// Context: Policy #: DGASAS0090888
+//---------------------------------------
+rule: {"Policy" "#" ":" {<>}=PolicyNumber };
+
+//---------------------------------------
+// LicenseNumber
+// Context: License #: PA-MD-123456
+//---------------------------------------
+rule: {"License" "#" ":" { (<>)+ }=LicenseNumber };
+
+//---------------------------------------
+// Age Categorization Rules
+// 1–12            child
+// 13–17           adolescent
+// 18–24           young adult
+// 25–44           adult
+// 45–64           middle-aged adult
+// 65+             older adult
+//---------------------------------------
+
+// Child (1 to 12 years old)
+rule: { 
+    Age[ 
+        ("[:range(1-9):]" | "1[:range(0-2):]") 
+    ] 
+} = AgeGroup@(type="child");
+
+// Adolescent (13 to 17 years old)
+rule: {
+    Age[ "1([:range(3-7):])" ] 
+} = AgeGroup@(type="adolescent");
+
+// Young Adult (18 to 24 years old)
+rule: { 
+    Age[ 
+        ( "1(8|9)" | "2[:range(0-4):]" ) 
+    ] 
+} = AgeGroup@(type="young adult");
+
+// Adult (25 to 44 years old)
+rule: { 
+    Age[ 
+        ( "2[:range(5-9):]" | "3[:digit:]" | "4[:range(0-4):]" ) 
+    ] 
+} = AgeGroup@(type="adult");
+
+// Middle-Aged Adult (45 to 64 years old)
+rule: { 
+    Age[ 
+        ( "4[:range(5-9):]" | "5[:digit:]" | "6[:range(0-4):]" ) 
+    ] 
+} = AgeGroup@(type="middle-aged adult");
+
+// Older Adult (65+ years old)
+rule: { 
+    Age[ 
+        (
+             "6[:range(5-9):]" 
+             | "7[:digit:]" 
+             | "8[:digit:]" 
+             | "9[:digit:]" 
+             | "10[:digit:]"
+        ) 
+    ] 
+} = AgeGroup@(type="older adult");
+

@@ -1,0 +1,92 @@
+# MEDICAL REPORT - CONFIDENTIAL
+
+Patient ID: MR-2025-827145
+Date: September 9, 2025
+Hospital: Valley View Community Hospital
+Department: Pulmonary Medicine
+
+## PATIENT INFORMATION
+
+Name: Daniel Brooks
+DOB: 11/03/1971 (Age: 53)
+Gender: Male
+Address: 431 Cedar Lane, Brookfield, PA 19014
+Phone: (610) 555-0229
+Insurance: HealthFirst PPO - Policy #: HF903417225
+
+## ATTENDING PHYSICIAN
+
+Dr. Aaron Patel, MD
+Pulmonary Medicine
+License #: PA-MD-391604
+
+## CHIEF COMPLAINT
+
+Progressive shortness of breath with exertion and persistent productive cough for approximately 3 months.
+
+## MEDICAL HISTORY
+
+- Chronic Obstructive Pulmonary Disease (COPD)
+- Former smoker (30 pack-year history)
+- Gastroesophageal reflux disease (GERD)
+
+## CURRENT MEDICATIONS
+
+- Tiotropium inhaler - once daily
+- Albuterol inhaler - as needed
+- Omeprazole 20 mg - once daily
+- Aspirin 81 mg - daily
+
+## EXAMINATION FINDINGS
+
+- Blood Pressure: 132/84 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 20/min
+- Oxygen Saturation: 94% on room air
+- Temperature: 98.7°F
+- Mild expiratory wheezing bilaterally
+- Decreased breath sounds at lung bases
+
+## LABORATORY RESULTS
+
+- CBC: Within normal limits
+- Basic Metabolic Panel: Unremarkable
+- Chest X-ray: Mild hyperinflation without focal infiltrate
+- Spirometry:
+- FEV1: 65% predicted
+- FVC: 88% predicted
+- FEV1/FVC: 0.60
+
+## DIAGNOSIS
+
+- Moderate COPD with mild exacerbation
+- Chronic bronchitis
+- Gastroesophageal reflux disease
+
+## TREATMENT PLAN
+
+- Continue Tiotropium daily
+- Initiate inhaled corticosteroid/LABA combination therapy
+- Albuterol inhaler every 4-6 hours as needed
+- Pulmonary rehabilitation referral
+- Annual influenza vaccination recommended
+- Reinforce smoking cessation maintenance
+
+## REPORTED SIDE EFFECTS
+
+- Occasional dry mouth from Tiotropium
+- Mild throat irritation after inhaler use
+
+## FOLLOW-UP
+
+- Return in 6 weeks
+- Repeat spirometry in 6 months
+- Monitor for increased sputum production, fever, or worsening dyspnea
+
+## PHYSICIAN NOTES
+
+Patient remains tobacco-free and is motivated to improve exercise tolerance. Reviewed inhaler technique and discussed recognition of COPD exacerbation symptoms requiring prompt evaluation.
+
+Dr. Aaron Patel, MD
+Date: September 9, 2025
+Signature: [Electronic Signature on File]
