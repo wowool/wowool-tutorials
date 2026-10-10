@@ -1,0 +1,5 @@
+ipykernel
+nlp-wowool-sdk
+wowool-english
+numpy
+pandas
